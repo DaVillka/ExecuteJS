@@ -1,5 +1,5 @@
 # ExecuteJS  
-Custom ExecuteJS to RAGE MP
+Custom ExecuteJS for RAGE MP from result support
 
 # Usage
 ```csharp
